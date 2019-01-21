@@ -7,7 +7,7 @@ who can create and modify the state of the tickets and create other users who ca
 - admin password: 123
 
 ## Screens 
-![home](../master/preview_images/new_ticket.png)![home](../master/preview_images/tickets_list.png)![home](../master/preview_images/ticket_details.png)
+![home](../master/preview_images/new_ticket2.png)![home](../master/preview_images/tickets_list2.png)![home](../master/preview_images/ticket_details2.png)
 
 ## Getting Started
 
