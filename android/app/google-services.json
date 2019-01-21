@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "663552558723",
+    "firebase_url": "https://sc-tickets.firebaseio.com",
+    "project_id": "sc-tickets",
+    "storage_bucket": "sc-tickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663552558723:android:f2fec6135f79f593",
+        "android_client_info": {
+          "package_name": "com.josancamon19.scticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663552558723-c71edv111miiogi8fvvgt2a0peb94kpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josancamon19.scticket",
+            "certificate_hash": "95b4bbd51ddaab44aafbe922e24b333048a19a2e"
+          }
+        },
+        {
+          "client_id": "663552558723-qt7fm70sqdrf9pfu0lk5s9ee0ohjonak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rFG29hQU-KIwF8NzvS1cquPRGD-8BRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663552558723-qt7fm70sqdrf9pfu0lk5s9ee0ohjonak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
